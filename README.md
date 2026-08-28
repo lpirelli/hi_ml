@@ -1,5 +1,5 @@
 # hi_ml
-My personal tutorial to learn more about ML &amp; AI
+My personal working place to learn about ML & AI
 
 Learning sources:
 - Book and materials from "Deep Learning for Physics Research" by Martin Erdmann, Jonas Glombitza, Gregor Kasieczka, and Uwe Klemradt
